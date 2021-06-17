@@ -1,4 +1,4 @@
-# tekrar coz dp ile. catalan numberida hatirla.
+
 
 class Solution:
     def numTrees(self, n: int) -> int:
