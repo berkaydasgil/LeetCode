@@ -1,4 +1,3 @@
-## Silmene gerek yok sonucu, time limite takiliyor, cok fazla cozme yontemi var bunu solutionlarda bir ara gelbunu calis.
 
 class Solution:
     def climbStairs(self, n: int) -> int:
