@@ -1,4 +1,4 @@
-#kendim yaptim, basitti.
+
 
 # Definition for a binary tree node.
 # class TreeNode:
